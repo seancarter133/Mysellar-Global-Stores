@@ -1,4 +1,4 @@
-# Mysellar-Global-Stores
+# Mysellar-Global-Stores From 2019-2021
 
 ## Introduction
 In today’s competitive business landscape, data-driven decision-making plays a pivotal role in transforming raw data into valuable insights. By analyzing trends, identifying patterns, and making informed choices, organizations can drive growth and improve performance. This project focuses on the analysis of a global sales dataset, with the goal of uncovering key insights that can optimize sales strategies and initiatives. The findings will contribute to more effective decision-making, support sustainable growth, and enhance the overall success of the organization.
@@ -61,7 +61,9 @@ This data was first nomalized on Excel and transformed in power query, The nomin
 
 -The Gambia is the country with the lowest order followed by Liechenstein, Zimbabwe,Marshall Island then Cape verde.
 
--The analysis shows that there is no correlation between total revenue generated in sub-saharan african countries with their GDP
+-The analysis shows that there is no correlation between total revenue generated in sub-saharan african countries with their GDP.
+
+-The Current year(2019) revenue is $62.4m while Current Year Profit $18.94M
 
 
 ## Overview
