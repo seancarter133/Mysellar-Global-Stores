@@ -61,23 +61,27 @@ This data was first nomalized on Excel and transformed in power query, The nomin
 
 -The Gambia is the country with the lowest order followed by Liechenstein, Zimbabwe,Marshall Island then Cape verde.
 
+-The analysis shows that there is no correlation between total revenue generated in sub-saharan african countries with their GDP
+
 
 ## Overview
 ![Dashboard](https://github.com/seancarter133/Mysellar-Global-Stores/blob/main/Assets/MYsellar%20Dashboard.jpg)
 
-![Yearly Sales of categories](https://github.com/seancarter133/Mysellar-Global-Stores/blob/main/Assets/MYsellar%20Dashboard.jpg)
 
 ## Recommendations
--High performing regions like Europe and Sub-saharan countries should be Focused on more since they bring in more revenue.
+-High-performing regions, such as Europe and Sub-Saharan countries, should be given strategic priority due to their significant revenue contributions.
 
--prioritize Transportation of goods, More works should be done on shipping of goods.
+-Efforts should also be intensified to optimize the transportation and shipping of goods to enhance efficiency and support continued growth in these key markets.
 
--
+-Focus on building strong customer relationships through localized customer support and services tailored to cultural and regional expectations.
+
+-Establish partnerships with regional stakeholders, including governments and private-sector entities, to facilitate smoother trade operations.
+
 
 ## Conclusion
 This analysis provides essential insights into the MySellar Global Store’s performance across different regions. By exploring key trends and performance indicators, it highlights opportunities that remain underutilized in various markets. The results from this analysis are not just informative but critical for guiding strategic decisions aimed at improving profitability and optimizing operations. By harnessing these insights, MySellar can capitalize on new growth opportunities, address operational challenges, and foster sustainable expansion, positioning itself for long-term success and competitiveness in the global market.
 
 ## Download
-<a href="https://github.com/seancarter133/Mysellar-Global-Stores/raw/refs/heads/main/Assets/MYSELLAR%20GLOBAL%20STORES.pbix>Download File</a>
+<a href="https://github.com/seancarter133/Mysellar-Global-Stores/raw/refs/heads/main/Assets/MYSELLAR%20GLOBAL%20STORES.pbix">Download File</a>
 
 This is an insight of Mysellar Global store activities
