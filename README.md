@@ -49,13 +49,13 @@ This data was first nomalized on Excel and transformed in power query, The nomin
 ## DashBoard Insights
 -The Total Revenue is $1.32billion while Profit is $388.94M
 
--Average Shippings Days is 9days
+-Average Shippings Days is 9days.
 
--Profit margin is 29.36%
+-A profit margin of 29.36% demonstrates that the company retains nearly 30 cents of profit for every dollar of revenue. This reflects effective cost management and a solid ability to convert revenue into profit.
 
--More Profit was made from online sales with a total of $676M 
+-More Profit was made from online sales with a total of $676M then Offline sales has $649M.
 
--Europe had the highest sales by order volume followed by Sub-Sahara Africa, Asia and  Middle-East and North-Africa 
+-Europe had the highest sales by order volume followed by Sub-Sahara Africa, Asia and  Middle-East and North-Africa. 
 
 -Vanuatu is the country with the highest orders  followed by Australia, Russia, Tunisia then Mynnair
 
